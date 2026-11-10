@@ -2,7 +2,7 @@
 
 Nazem (نظم) is a web-based warehouse management system that helps warehouse staff monitor inventory and make faster decisions, with a machine learning model that forecasts demand.
 
-🎥 **[Watch the demo video](https://drive.google.com/file/d/19GxtA_89Ib9DQYR2D96UxUKmshBvgOLy/view?usp=sharing)**
+🎥 🎥 **[Watch the demo video](https://drive.google.com/file/d/19GxtA_89Ib9DQYR2D96UxUKmshBvgOLy/view?usp=sharing)**
 
 ## Key Features
 
